@@ -1,0 +1,21 @@
+# this is a comment yoohoo
+name: John
+names:
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  authour: John
+  publisher: random publisher
+
+truth: yes
+another_truth: True
+yet_another_truth: true
+
+false: no
+another_false: False
+yet_another_false: false
+

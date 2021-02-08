@@ -1,0 +1,8 @@
+guru:
+  username: John DE YAML
+  password: somePass
+  dburl: asdas
+  jms:
+    username: JMS username DE YAML
+    password: somePass
+    dburl: someUrl
